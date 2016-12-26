@@ -1,11 +1,6 @@
 # snm-embed-messenger-chat
 Facebook/Messenger Chat Embed Code.
 
-<b>View Demos :</b>
-- https://serviceandmaintenance.github.io/snm-embed-messenger-chat/
-- https://serviceandmaintenance.net/
-- https://snmhosting.com/
-
 <h1>S&amp;M Embed Messenger Chat</h1>
 
 How to use:
