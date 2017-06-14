@@ -12,9 +12,15 @@ How to use:
  - Go to your Facebook Page. Under the Cover Photo hover your mouse pointer on <b><em>Messages</em></b> button. Click on <b><em>Copy Messenger Link</em></b>. You'll get a link like http://m.me/serviceandmaintenance.net. Copy that link.
  - Replace the link you've on the footer part which you copied a while ago, with the one you got from your Facebook Page.
  - You may change the css for more customization.
-  
-  If you face any problem, then visit our site https://serviceandmaintenance.net or send us a email at shabujmona@gmail.com.
-  
 
-  
+
+
+# Contact Us For Help/Reporting Bugs:
+Facebook Page: https://facebook.com/serviceandmaintenance.net
+
+Website: https://serviceandmaintenance.net
+
+Email: shabujmona@gmail.com , info@serviceandmaintenance.net
+
+ 
   ![N|Solid](https://snmhosting.com/wp-content/uploads/2016/10/snm-animated-ad.gif)
